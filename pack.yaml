@@ -4,7 +4,7 @@ description : Telegram Messaging integration
 keywords:
   - telegram
   - messaging
-version: 1.0.0
+version: 1.0.1
 author : Fabio Brito
 email : psychopenguin@gmail.com
 python_versions:
